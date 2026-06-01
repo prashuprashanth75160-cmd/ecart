@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "name": "NovaSound Wireless ANC Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "rating": 4.8,
+    "reviewsCount": 128,
+    "image": "/products/headphones.png",
+    "description": "Experience pure audio bliss with NovaSound. Engineered with state-of-the-art hybrid Active Noise Cancellation, high-fidelity 40mm dynamic drivers, and an ultra-comfortable memory-foam glassmorphic design. Enjoy up to 50 hours of playtime with lightning-fast charging.",
+    "features": [
+      "Hybrid Active Noise Cancellation (ANC)",
+      "50-Hour Extended Battery Life",
+      "High-Fidelity 40mm Dynamic Drivers",
+      "Ergonomic Memory Foam Cushions",
+      "Multipoint Bluetooth Connection"
+    ],
+    "specifications": {
+      "Brand": "NovaSound",
+      "Model": "NS-500",
+      "Driver Size": "40 mm",
+      "Battery Life": "50 Hours (ANC Off), 38 Hours (ANC On)",
+      "Connectivity": "Bluetooth 5.3 & 3.5mm Aux",
+      "Charging": "USB-C, Fast Charge (10 min = 5 hours)"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Sarah J.",
+        "rating": 5,
+        "comment": "The ANC is absolutely mind-blowing. It blocks out my noisy office completely, and they're so comfy I forget I have them on!",
+        "date": "2026-05-12"
+      },
+      {
+        "id": 2,
+        "name": "Marcus K.",
+        "rating": 4,
+        "comment": "Incredible sound signature with deep bass. The app is a bit basic, but the hardware is exceptional.",
+        "date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chronos Smartwatch Carbon-X",
+    "category": "Electronics",
+    "price": 249.99,
+    "rating": 4.7,
+    "reviewsCount": 94,
+    "image": "/products/watch.png",
+    "description": "The ultimate companion for your active lifestyle. Chronos Carbon-X features a lightweight carbon-fiber chassis, high-definition AMOLED glass touch display, advanced biometrics tracking, built-in dual-band GPS, and up to 14 days of battery life.",
+    "features": [
+      "Ultra-Durable Carbon Fiber Bezel",
+      "1.43\" AMOLED Always-On Display",
+      "Heart Rate, SpO2 & Sleep Tracker",
+      "Built-in Dual-Band GPS & GLONASS",
+      "5 ATM Water Resistant Rating"
+    ],
+    "specifications": {
+      "Brand": "Chronos",
+      "Model": "CX-1",
+      "Display": "1.43 inch AMOLED Touch",
+      "Water Resistance": "5 ATM (up to 50 meters)",
+      "Battery Life": "Up to 14 Days (Smart Mode)",
+      "Compatibility": "iOS & Android"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Elena R.",
+        "rating": 5,
+        "comment": "Love the premium feel. The battery actually lasts two full weeks! Sleep tracking is incredibly detailed.",
+        "date": "2026-05-18"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "AeroGlide Cyber Running Shoes",
+    "category": "Fashion",
+    "price": 129.99,
+    "rating": 4.6,
+    "reviewsCount": 82,
+    "image": "/products/shoes.png",
+    "description": "Engineered for maximum responsiveness and street-ready style. AeroGlide Cyber utilizes a proprietary carbon-plate midsole, hyper-breathable knit upper, and glowing cyber accents to deliver the ultimate cushioning and rebound on your runs.",
+    "features": [
+      "Responsive Carbon-Plate Midsole",
+      "Hyper-Breathable Seamless Knit",
+      "High-Traction Cyber-Grip Sole",
+      "Ultralight Design (210g)",
+      "Reflective Safety Accents"
+    ],
+    "specifications": {
+      "Brand": "AeroGlide",
+      "Model": "Cyber-Run v2",
+      "Weight": "210g (Size 9)",
+      "Drop": "8 mm",
+      "Midsole": "Carbon-infused Foam",
+      "Terrain": "Road & Track"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "David L.",
+        "rating": 5,
+        "comment": "Feels like running on clouds. The spring in the step is noticeable, and the design is super futuristic!",
+        "date": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Helix Waterproof Tech Pack",
+    "category": "Accessories",
+    "price": 89.99,
+    "rating": 4.9,
+    "reviewsCount": 156,
+    "image": "/products/backpack.png",
+    "description": "Meet Helix, the backpack designed for the modern commuter. Made with military-grade waterproof Cordura fabric, integrated USB-C external charging port, smart anti-theft hidden pockets, and a dedicated shock-proof 16\" laptop sleeve.",
+    "features": [
+      "Waterproof Cordura Ballistic Shell",
+      "Dedicated 16\" Laptop Compartment",
+      "Integrated USB-C Charging Port",
+      "Hidden Anti-Theft Back Pocket",
+      "Ergonomic Airflow Back Panel"
+    ],
+    "specifications": {
+      "Brand": "Helix Gear",
+      "Model": "TP-16",
+      "Capacity": "24 Liters",
+      "Dimensions": "18.5\" x 12\" x 6.5\"",
+      "Laptop Sleeve": "Up to 16-inch Macbook Pro",
+      "Material": "1000D Cordura Waterproof"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Alex P.",
+        "rating": 5,
+        "comment": "Simply the best backpack I've ever owned. Heavy rain? Everything inside stays bone dry. Compartments are extremely well-thought-out.",
+        "date": "2026-05-28"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "KeyForge mechanical Pro Keyboard",
+    "category": "Electronics",
+    "price": 149.99,
+    "rating": 4.8,
+    "reviewsCount": 65,
+    "image": "/products/keyboard.png",
+    "description": "Unlock ultimate typing comfort and precision. KeyForge Pro is a 75% mechanical keyboard featuring custom linear yellow switches, double-shot PBT keycaps, gasket-mounted structure for acoustic dampening, and vibrant customizable RGB backlighting.",
+    "features": [
+      "Custom Factory-Lubed Yellow Switches",
+      "Gasket-Mounted Acoustic Structure",
+      "Premium Double-Shot PBT Keycaps",
+      "Vibrant Per-Key Customizable RGB",
+      "Tri-Mode (Bluetooth, 2.4Ghz, Type-C)"
+    ],
+    "specifications": {
+      "Brand": "KeyForge",
+      "Model": "KF-75 Pro",
+      "Layout": "75% ANSI layout",
+      "Switch Type": "Linear Custom Yellow (lubed)",
+      "Hot-swappable": "Yes, 3/5-pin compatible",
+      "Battery": "4000mAh Lithium Rechargeable"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Tyler B.",
+        "rating": 5,
+        "comment": "The thocky sound is amazing straight out of the box! Zero key wobble, and the RGB lighting is breathtaking.",
+        "date": "2026-05-15"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "AuraSound cylinder Smart Speaker",
+    "category": "Electronics",
+    "price": 79.99,
+    "rating": 4.5,
+    "reviewsCount": 112,
+    "image": "/products/speaker.png",
+    "description": "Fill any room with rich 360-degree sound. AuraSound Cylinder is a sleek smart speaker featuring premium dual-passive radiators, built-in smart assistant capabilities, ambient interactive LED halo rings, and full IPX7 waterproof rating.",
+    "features": [
+      "Immersive 360-Degree Stereo Sound",
+      "Interactive Music-Syncing LED Halo",
+      "IPX7 Fully Waterproof Construction",
+      "Smart Assistant & Voice Commands",
+      "18 Hours Playtime on a Single Charge"
+    ],
+    "specifications": {
+      "Brand": "AuraSound",
+      "Model": "Cyl-360",
+      "Output Power": "24 Watts RMS",
+      "Waterproofing": "IPX7 Waterproof",
+      "Battery": "5200mAh (Up to 18 hours)",
+      "Voice Control": "Google Assistant & Alexa built-in"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Jessica M.",
+        "rating": 5,
+        "comment": "Perfect for pool parties! Extremely loud for its size and the bass is tight and punchy. The led lights are a super cool touch.",
+        "date": "2026-05-22"
+      }
+    ]
+  }
+]
